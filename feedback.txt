@@ -1,0 +1,6 @@
+Feedback.
+
+La solución se implementó con React y también librería bootstrap.
+la idea principal fue tratar de mantener una separación entre los distintos componentes
+y la reutilización de lo mismos en el caso de que fuera requerido más de una vez 
+durante el desarrollo de la aplicación.
